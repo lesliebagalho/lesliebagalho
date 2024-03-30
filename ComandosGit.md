@@ -11,5 +11,3 @@
 - git status
 - git commit -m "mensagem"
 - git push origin nome-da-branch
-
-##
