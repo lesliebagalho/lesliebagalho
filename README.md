@@ -27,5 +27,5 @@ Fonte: @iuricode
 
 <h3>Teste com visualizador do Power BI</h3>
 <div>
-    <a href="https://app.powerbi.com/links/DDnCVWnSqt?ctid=3a5c6865-c6f9-49b8-b4d2-030d4c528a29&pbi_source=linkShare"></a>
+    <a href="https://app.powerbi.com/links/DDnCVWnSqt?ctid=3a5c6865-c6f9-49b8-b4d2-030d4c528a29&pbi_source=linkShare">Power BI</a>
 </div>
