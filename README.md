@@ -24,10 +24,3 @@ Fonte: @iuricode
 <div>
     <a href="/ComandosGit.md">Comandos Git</a>
 </div>
-
-<h3>Teste com visualizador do Power BI</h3>
-<div>
-    <a href="https://app.powerbi.com/links/DDnCVWnSqt?ctid=3a5c6865-c6f9-49b8-b4d2-030d4c528a29&pbi_source=linkShare">Power BI</a>
-
-    <iframe title="Dashboard Metrics" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=0beb7f19-b6ef-49e1-b288-abf14caea094&autoAuth=true&ctid=3a5c6865-c6f9-49b8-b4d2-030d4c528a29" frameborder="0" allowFullScreen="true"></iframe>
-</div>
