@@ -7,7 +7,7 @@ No momento, atuo com desenvolvimento Low-Code (Power Apps) e Dashboards (Excel/P
 <div>
     <a href="https://www.linkedin.com/in/lesliebagalho/" target="_blank"><img src="assets/image/linkedin.png" style="width: 100px;" alt=""></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://youtube.com/@l2bsolucoes-ocf" target="_blank"><img src="assets/image/youtube.png" style="width: 70px;" alt=""></a>
+    <a href="https://www.youtube.com/@l2bsolucoes-ofc" target="_blank"><img src="assets/image/youtube.png" style="width: 70px;" alt=""></a>
 </div>
 
 <h3>Meus conhecimentos básicos/intermediários</h3>
