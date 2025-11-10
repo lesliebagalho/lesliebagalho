@@ -1,7 +1,9 @@
 ﻿<h2>Sobre</h2>
 Ola! Meu nome é Leslie Bagalho.<br>
-Venho desde 2022, quando fiz a migração para área de TI, me aprimorando no que tenho/venho planejado para meu futuro.<br>
-No momento, atuo com desenvolvimento Low-Code (Power Apps) e Dashboards (Excel/Power BI) e estudo CSS e HTML.<br>
+Venho desde 2022, quando fiz minha migração para área de TI, me aprimorando no que tenho/venho planejado para meu futuro.<br>
+No momento, atuo como Analista de Desenvolvimento em uma empresa automobilistica. <br> 
+
+Low-Code (Power Apps) e Dashboards (Excel/Power BI) e estudo CSS e HTML.<br>
 
 <h3>Minhas redes sociais</h3>
 <div>
