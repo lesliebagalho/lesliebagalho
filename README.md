@@ -4,13 +4,16 @@ Venho desde 2022, quando fiz minha migração para área de TI, me aprimorando n
 No momento, atuo como Analista de Desenvolvimento em uma empresa automobilistica. <br> 
 <br>
 - Crio soluções Low-Code utilizando Power Apps <br>
-- Crio dashboards básicos utilizando Excel/Power BI<br>
+- Crio dashboards básicos utilizando Excel/Power BI
+<br>
 <br>
 Em conjunto com o setor de TI, estamos: <br>
 - Criando plataforma para servir de base para sistemas web
 <br>
+<br>
 Projetos Freelancer:<br>
 - Dossiê Linkedin (elabração de currículos)
+<br>
 <br>
 Entusiasta na criação de MicroSaas<br>
 - Orçamentos (criação online de orçamentos - em andamento)
