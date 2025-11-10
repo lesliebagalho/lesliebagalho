@@ -8,6 +8,12 @@ No momento, atuo como Analista de Desenvolvimento em uma empresa automobilistica
 <br>
 Em conjunto com o setor de TI, estamos: <br>
 - Criando plataforma para servir de base para sistemas web
+<br>
+Projetos Freelancer:<br>
+- Dossiê Linkedin (elabração de currículos)
+<br>
+Entusiasta na criação de MicroSaas<br>
+- Orçamentos (criação online de orçamentos - em andamento)
 
 <h3>Minhas redes sociais</h3>
 <div>
